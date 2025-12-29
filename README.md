@@ -24,5 +24,7 @@
 - Console-based application using functions and conditional logic
 
 ## Connect with me
-- LinkedIn: https://linkedin.com/in/your-link
+- LinkedIn:www.linkedin.com/in/
+sawon-oraon-687797301
+
 - Email: ssawonoraon@gmail.com
